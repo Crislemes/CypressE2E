@@ -1,0 +1,22 @@
+{
+  "name": "cypresse2e",
+  "version": "1.0.0",
+  "description": "Primera automação com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypresst open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crislemes/CypressE2E.git"
+  },
+  "author": "Cris Maria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crislemes/CypressE2E/issues"
+  },
+  "homepage": "https://github.com/Crislemes/CypressE2E#readme",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  }
+}
